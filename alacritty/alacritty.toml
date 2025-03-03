@@ -5,12 +5,15 @@ program = "/usr/bin/fish"
 decorations = "None"
 dimensions = {columns = 169, lines = 60}
 opacity = 0.7
-startup_mode = "Windowed"
+startup_mode = "Fullscreen"
 
 [font]
 normal = { family = "Twilio Sans Mono", style = "normal"}
 size = 17
 
+
+
+[colors]
 [colors.primary]
 
 background = "#282a36"
