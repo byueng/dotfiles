@@ -7,5 +7,8 @@ for file in ~/.config/fish/functions/*.fish
     source $file
 end
 
+# remove fish shell greeting
+set -U fish_greeting ""
+
 # import all alias
 source ~/.config/fish/aliases.fish
