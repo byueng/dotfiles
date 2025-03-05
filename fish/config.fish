@@ -1,6 +1,8 @@
+# environment variables
 set -x GTK_IM_MODULE fcitx
 set -x QT_IM_MODULE fcitx
 set -x XMODIFIERS @im=fcitx
+set -gx date (date)
 
 # import all function files in folder: ./functions
 for file in ~/.config/fish/functions/*.fish
