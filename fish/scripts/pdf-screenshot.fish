@@ -1,6 +1,5 @@
 #!/usr/bin/env fish
 
-
 # set unique filename
 set pdf_file (ps aux | grep zathura | grep -v grep | awk '{print $NF}')
 set pdf_name (string replace -r '\.pdf$' '' $pdf_file)

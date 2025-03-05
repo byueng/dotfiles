@@ -1,2 +1,4 @@
 set selection-clipboard clipboard
 
+# function
+map <C-f> exec "fish '/home/byun/.config/fish/scripts/pdf-screenshot.fish'"
