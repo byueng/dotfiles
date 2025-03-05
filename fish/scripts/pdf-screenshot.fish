@@ -10,5 +10,4 @@ set save_img_path /tmp/{$pdf_name}_{$date}.png
 # -f: set the gnome-screenshot save path
 gnome-screenshot -a -f $save_img_path
 # auto open the file
-feh --quiet --no-menus $save_img_path &
-
+feh --scale-down --quiet $save_img_path &
