@@ -3,6 +3,7 @@ alias c="clear"
 alias n="neofetch" 
 alias r="ranger"
 alias l="ls"
+alias e="exit"
 alias s="source"
 
 # mac addtional
