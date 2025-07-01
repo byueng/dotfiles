@@ -12,3 +12,5 @@ alias ff="fastfetch"
 alias confidence='source /Users/apple/code/NL2SQL/confidence/bin/activate.fish'
 alias car_venv='source /Users/apple/code/Car/car_backend/car_venv/bin/activate.fish'
 alias poker_venv='source /Users/apple/code/Simulating-Dreams/Agent-Poker/poker_venv/bin/activate.fish'
+alias OB='source /Users/apple/code/OB/OB/bin/activate.fish'
+alias OB='source /Users/apple/code/OB/OB/bin/activate.fish'
